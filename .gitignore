@@ -1,0 +1,23 @@
+# Dependencies and build output
+node_modules/
+dist/
+build/
+out/
+.cache/
+
+# Android / Gradle (added from Phase 2)
+.gradle/
+local.properties
+*.iml
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.keystore
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+*.log
